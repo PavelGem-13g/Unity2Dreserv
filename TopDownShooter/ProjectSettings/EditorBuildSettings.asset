@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+    path: Assets/Scenes/LoadScreen.unity
+    guid: 3a92814bb08a8e741892718d31eed6db
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: b1b76b3623972c44d90bdef318e3b98b
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 686c1519cf31a314e98f09f0b3d75d8e
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 7b74cda90daead446945887e418e25bb
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: a428fda66ee565e469946e0d15de8076
+=======
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+>>>>>>> parent of dffd52a... unity hse holidays
+=======
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+>>>>>>> parent of dffd52a... unity hse holidays
+  m_configObjects: {}
